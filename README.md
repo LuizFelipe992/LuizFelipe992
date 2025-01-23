@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Luiz Felipe, tenho 24 anos e sou natural de Minas Gerais. Concluí o ensino médio no EEGAS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+Me chamo Luiz Felipe, tenho 24 anos e sou natural de Minas Gerais. Concluí o ensino médio no EEGAS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas - Estácio.
+A 5 anos atrás, desenvolvi um sonho que era me tornar programador frontend, me apaixonei pela profissão! Como sou uma pessoa ansiosa, além de começar a estudar ADS, também comecei vários outros cursos, o primeiro foi na #onebitcode, lá eu aprendi a fazer meu primeiro HELLO WORLD! Desenvolvi meu conhecimento sobre a base da programação e sigo até hoje me aprimorando cada vez mais! 
 
 ### 🤖 Linguagens e Tecnologias
 <p>
